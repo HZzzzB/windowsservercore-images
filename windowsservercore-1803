@@ -1,2 +1,0 @@
-FROM microsoft/windowsservercore:1803
-MAINTAINER iailan.cloud@gmail.com
